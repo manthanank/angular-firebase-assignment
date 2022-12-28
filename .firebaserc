@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-assignment": {
+      "hosting": {
+        "angular-firebase-assignment": [
+          "angular-firebase-assignment"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-assignment"
+  }
+}
